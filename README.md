@@ -1,153 +1,81 @@
 <div align="center">
 
-# `> HELLO_WORLD.exe`
+# `> HELLO, WORLD_`
 
 ### **ZEBA PRAWEEN**
 
-`B.Tech CSE` · `AI/ML Explorer` · `Software Developer` · `Builder`
+`B.Tech CSE` · `Developer` · `AI/ML Explorer` · `Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products+%F0%9F%9A%80;Exploring+AI+%2B+Web+%2B+Innovation;Learning+something+new+every+day;Turning+%22what+if%22+into+%22it's+working%22." alt="Typing SVG" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zeba-praween/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zeba-praween/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Exploring+AI+%2B+Web+%2B+Innovation;Learn.+Build.+Break.+Repeat." />
 
 </div>
 
 ---
 
-<div align="center">
-
-## `SYSTEM STATUS`
-
-</div>
+### `// ABOUT`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  USER        : ZEBA PRAWEEN                                  │
-│  ROLE        : DEVELOPER / BUILDER                           │
-│  DOMAIN      : AI • WEB • SOFTWARE • INNOVATION             │
-│  STATUS      : ████████████████████████ ONLINE               │
-│                                                              │
-│  CURRENTLY  → Learning AI / ML                               │
-│  BUILDING   → CosmoEra                                      │
-│  EXPLORING  → Deep Learning / Computer Vision                │
-│  MODE       → Learn → Build → Debug → Repeat                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+CS student building at the intersection of
+AI, web development & creative ideas.
+
+Currently → AI / ML
+Building  → CosmoEra
+Exploring → Deep Learning + Computer Vision
 ```
 
 ---
 
-<div align="center">
-
-## `01 // ABOUT_ME`
-
-</div>
-
-I'm a **B.Tech Computer Science student** interested in the intersection of **technology, creativity, and real-world problem solving**.
-
-I like taking an idea from a rough concept and turning it into something people can actually interact with.
-
-```python
-class Zeba:
-
-    role = "Computer Science Student"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Product Building",
-        "Hackathons"
-    ]
-
-    mindset = "Build > Talk"
-```
-
----
-
-<div align="center">
-
-## `02 // CURRENTLY_BUILDING`
-
-### 👗 COSMOERA
-
-**Fashion × Technology × AI**
-
-</div>
-
-A fashion-tech platform exploring how technology can make the fashion experience more **personalized, interactive, and digital**.
-
-```text
-COSMOERA
-├── Fashion Technology
-├── Digital Twin
-├── Personalization
-├── AI-powered experiences
-└── Modern Web Interface
-```
-
-`React` `JavaScript` `AI` `Web Development`
-
----
-
-<div align="center">
-
-## `03 // SELECTED_PROJECTS`
-
-</div>
+### `// PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🪪 SafeID
+### 👗 COSMOERA
 
-**Decentralized Identity**
+`Fashion × AI`
 
-Blockchain-based identity solution exploring secure digital identity and verification for displaced communities.
+Personalized digital fashion experience.
 
-`React` `Solidity` `Web3.js` `Polygon` `IPFS`
+`React` `AI` `JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🍔 Campus Bite
+### 🪪 SAFEID
 
-**Campus Food Platform**
+`Blockchain × Identity`
 
-A web application built around a campus food-ordering experience.
+Decentralized identity & verification.
 
-`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
+`React` `Solidity` `Web3`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🌸 Bloom & Blish
-
-**E-Commerce Experience**
-
-A flower e-commerce project focused on a visually engaging shopping experience.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🖥️ SAZOS
 
-**Mini Browser OS**
+`React × UI`
 
-A React-based experimental browser operating-system style interface.
+Browser-based mini OS experience.
 
-`React` `JavaScript` `Lucide`
+`React` `JavaScript`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🍔 CAMPUS BITE
+
+`Web × Database`
+
+Campus-focused food platform.
+
+`Node.js` `MySQL`
 
 </td>
 </tr>
@@ -155,127 +83,45 @@ A React-based experimental browser operating-system style interface.
 
 ---
 
-<div align="center">
+### `// STACK`
 
-## `04 // TECH_STACK`
+<p align="center">
 
-### LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flask,git" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-### DEVELOPMENT
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
+`AI / ML` · `Web Development` · `Problem Solving`
 
-### DATA • AI • TOOLS
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma" />
+---
 
-</div>
+### `// BEYOND CODE`
+
+`🚀 Hackathons` · `💡 Innovation` · `🎯 Leadership` · `🏗️ Product Building`
+
+**Innov8-A-Thon 2026** · Organizer & Management Lead
+**IdeaThon 2026** · Overall Coordinator
+**Innovate-a-thon, BIT Mesra** · Top Finalists
+**CredTech Hackathon** · Certificate of Excellence
 
 ---
 
 <div align="center">
 
-## `05 // LEARNING_PROTOCOL`
+### `> learn(); build(); repeat();`
 
-</div>
+<a href="https://www.linkedin.com/in/ZebaPraween/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-```text
-             ┌──────────────┐
-             │    IDEA      │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   EXPLORE    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BUILD     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    BREAK     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DEBUG     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────┬───────┘
-                    │
-                    └──────────→ REPEAT ↻
-```
-
----
-
-<div align="center">
-
-## `06 // BEYOND_CODE`
-
-</div>
-
-```text
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│  🚀 HACKATHONS       Building & competing              │
-│  💡 INNOVATION       Turning ideas into solutions       │
-│  🎯 LEADERSHIP       Coordinating people & projects     │
-│  🧠 LEARNING         Constantly expanding my toolkit    │
-│  🏗️ BUILDING         From concept → working product     │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-### Highlights
-
-* 🚀 **Innov8-A-Thon 2026** — Organizer & Management Lead
-* 💡 **IdeaThon 2026** — Overall Coordinator
-* 🏆 **Innovate-a-thon, BIT Mesra** — Top 25 Finalists / Top 10
-* 🥇 **CredTech Hackathon** — Certificate of Excellence
-* 🚀 Active in student innovation & entrepreneurship initiatives
-
----
-
-<div align="center">
-
-## `07 // GITHUB_ANALYTICS`
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeba-praween&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeba-praween&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=zeba-praween&theme=transparent&hide_border=true&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=64748B" />
-
-</div>
-
----
-
-<div align="center">
-
-## `08 // CONNECT`
-
-### Want to build something interesting?
-
-<a href="https://www.linkedin.com/in/zeba-praween/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/ZebaPraween"> <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-```text
-> connection.established
-> status: ready_to_build
-```
-
-<br>
-
-### `while(alive) { learn(); build(); repeat(); }`
-
-**Thanks for visiting my corner of GitHub. 🚀**
+`linkedin.com/in/zeba-praween` · `github.com/zeba-praween`
 
 </div>
