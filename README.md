@@ -1,127 +1,53 @@
-<div align="center">
-
-# `> HELLO, WORLD_`
-
-### **ZEBA PRAWEEN**
-
-`B.Tech CSE` · `Developer` · `AI/ML Explorer` · `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Exploring+AI+%2B+Web+%2B+Innovation;Learn.+Build.+Break.+Repeat." />
-
-</div>
-
----
-
-### `// ABOUT`
-
-```text
-CS student building at the intersection of
-AI, web development & creative ideas.
-
-Currently → AI / ML
-Building  → CosmoEra
-Exploring → Deep Learning + Computer Vision
-```
-
----
-
-### `// PROJECTS`
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 👗 COSMOERA
-
-`Fashion × AI`
-
-Personalized digital fashion experience.
-
-`React` `AI` `JavaScript`
-
-</td>
-
-<td width="50%" align="center">
-
-### 🪪 SAFEID
-
-`Blockchain × Identity`
-
-Decentralized identity & verification.
-
-`React` `Solidity` `Web3`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🖥️ SAZOS
-
-`React × UI`
-
-Browser-based mini OS experience.
-
-`React` `JavaScript`
-
-</td>
-
-<td width="50%" align="center">
-
-### 🍔 CAMPUS BITE
-
-`Web × Database`
-
-Campus-focused food platform.
-
-`Node.js` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-
-### `// STACK`
-
+<!-- Header Section -->
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flask,git" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%2C%20I'm%20Zeba%20Praween%20✨&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%2FML%20Explorer%20%7C%20Product%20Builder&descAlignY=62&descSize=18" alt="Header" width="100%" />
 </p>
 
 <p align="center">
-
-`AI / ML` · `Web Development` · `Problem Solving`
-
+  <a href="https://linkedin.com/in/zeba-praween/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://zebapraween.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-### `// BEYOND CODE`
+### 💫 About Me
 
-`🚀 Hackathons` · `💡 Innovation` · `🎯 Leadership` · `🏗️ Product Building`
+I’m a Computer Science student passionate about transforming raw ideas into functional, human-centric software. Whether it’s building interactive web applications or experimenting with computer vision models, I like working at the intersection of engineering and product design.
 
-**Innov8-A-Thon 2026** · Organizer & Management Lead
-**IdeaThon 2026** · Overall Coordinator
-**Innovate-a-thon, BIT Mesra** · Top Finalists
-**CredTech Hackathon** · Certificate of Excellence
+* 🔭 **Currently Building:** **CosmoEra** — exploring fashion-tech, virtual interactions, and AI styling.
+* 🧠 **Diving Into:** Deep Learning architectures, Computer Vision pipelines, and agentic AI workflows.
+* 🎯 **Milestones:** Top Finalist at **BIT Mesra Innovate-a-thon** & Certificate of Excellence at **IIT Kanpur CredTech**.
+* 🤝 **Leadership:** Organizer & Lead for **Innov8-A-Thon 2026** and **IdeaThon 2026**.
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack & Tooling
 
-### `> learn(); build(); repeat();`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,git,github,html,css" alt="Tech Stack" />
+</p>
 
-<a href="https://www.linkedin.com/in/ZebaPraween/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/ZebaPraween"> <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🚀 Featured Projects
 
-<br><br>
+| Project | Focus Area | Description |
+| :--- | :--- | :--- |
+| **👗 CosmoEra** | `Fashion × AI` | Personalized digital fashion experiences and virtual interaction models. |
+| **🪪 SafeID** | `Blockchain × Auth` | Decentralized identity protocol focused on verifiable, tamper-proof credentials. |
+| **🖥️ SAZOS** | `React × Web OS` | In-browser mini operating system with desktop-grade windowing mechanics. |
+| **🍔 Campus Bite** | `Fullstack × DB` | Streamlined campus food-ordering engine designed for high-concurrency order flows. |
 
-`linkedin.com/in/zeba-praween` · `github.com/zeba-praween`
+---
 
-</div>
+### 📊 Code Frequency & Activity
+
+<p align="center">
+  <!-- Snake Eating Commit History -->
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
