@@ -1,193 +1,281 @@
-# 👋 Hey, I'm Zeba
+<div align="center">
 
-### `CSE Student` · `Developer` · `AI/ML Explorer` · `Builder`
+# `> HELLO_WORLD.exe`
 
-> **I turn ideas into things people can actually use. 🚀**
+### **ZEBA PRAWEEN**
 
-I'm a B.Tech CSE student exploring **Artificial Intelligence, Machine Learning, Web Development, and product building**.
+`B.Tech CSE` · `AI/ML Explorer` · `Software Developer` · `Builder`
 
-I enjoy building projects, participating in hackathons, working on startup ideas, and learning by actually making things.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products+%F0%9F%9A%80;Exploring+AI+%2B+Web+%2B+Innovation;Learning+something+new+every+day;Turning+%22what+if%22+into+%22it's+working%22." alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zeba-praween/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zeba-praween/)
+
+</div>
 
 ---
 
-## ⚡ CURRENTLY
+<div align="center">
+
+## `SYSTEM STATUS`
+
+</div>
 
 ```text
-→ Exploring       AI / Machine Learning
-→ Building        Web & AI-powered products
-→ Learning        Deep Learning & Computer Vision
-→ Experimenting   Startup & product ideas
-→ Participating   Hackathons & innovation programs
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  USER        : ZEBA PRAWEEN                                  │
+│  ROLE        : DEVELOPER / BUILDER                           │
+│  DOMAIN      : AI • WEB • SOFTWARE • INNOVATION             │
+│  STATUS      : ████████████████████████ ONLINE               │
+│                                                              │
+│  CURRENTLY  → Learning AI / ML                               │
+│  BUILDING   → CosmoEra                                      │
+│  EXPLORING  → Deep Learning / Computer Vision                │
+│  MODE       → Learn → Build → Debug → Repeat                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Builds
+<div align="center">
 
-### 👗 CosmoEra
+## `01 // ABOUT_ME`
+
+</div>
+
+I'm a **B.Tech Computer Science student** interested in the intersection of **technology, creativity, and real-world problem solving**.
+
+I like taking an idea from a rough concept and turning it into something people can actually interact with.
+
+```python
+class Zeba:
+
+    role = "Computer Science Student"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Product Building",
+        "Hackathons"
+    ]
+
+    mindset = "Build > Talk"
+```
+
+---
+
+<div align="center">
+
+## `02 // CURRENTLY_BUILDING`
+
+### 👗 COSMOERA
 
 **Fashion × Technology × AI**
 
-A fashion-tech platform focused on creating a more personalized digital fashion experience.
+</div>
+
+A fashion-tech platform exploring how technology can make the fashion experience more **personalized, interactive, and digital**.
+
+```text
+COSMOERA
+├── Fashion Technology
+├── Digital Twin
+├── Personalization
+├── AI-powered experiences
+└── Modern Web Interface
+```
 
 `React` `JavaScript` `AI` `Web Development`
 
 ---
 
+<div align="center">
+
+## `03 // SELECTED_PROJECTS`
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🪪 SafeID
 
-**Decentralized Identity for Displaced Communities**
+**Decentralized Identity**
 
-A blockchain-based identity solution focused on secure digital identity and verification.
+Blockchain-based identity solution exploring secure digital identity and verification for displaced communities.
 
-`React` `Tailwind CSS` `Solidity` `Web3.js` `Polygon` `IPFS`
+`React` `Solidity` `Web3.js` `Polygon` `IPFS`
 
----
+</td>
+
+<td width="50%">
 
 ### 🍔 Campus Bite
 
-**A Campus Food Platform**
+**Campus Food Platform**
 
-A web application designed around the campus food experience.
+A web application built around a campus food-ordering experience.
 
 `HTML` `CSS` `JavaScript` `Node.js` `MySQL`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌸 Bloom & Blish
 
-**E-Commerce Web Experience**
+**E-Commerce Experience**
 
-A flower e-commerce project focused on creating a visually engaging online shopping experience.
+A flower e-commerce project focused on a visually engaging shopping experience.
 
 `HTML` `CSS` `JavaScript`
 
----
+</td>
 
-## 🧠 Tech Stack
+<td width="50%">
 
-**Languages**
+### 🖥️ SAZOS
 
-`C` `C++` `Java` `Python` `JavaScript`
+**Mini Browser OS**
 
-**Development**
+A React-based experimental browser operating-system style interface.
 
-`React` `HTML` `CSS` `Node.js` `Flask`
+`React` `JavaScript` `Lucide`
 
-**Database**
-
-`MySQL` `SQLite`
-
-**AI / ML**
-
-`Python` `Machine Learning` `Computer Vision`
-
-**Tools**
-
-`Git` `GitHub` `Figma`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Beyond Code
+<div align="center">
+
+## `04 // TECH_STACK`
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
+
+### DATA • AI • TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `05 // LEARNING_PROTOCOL`
+
+</div>
 
 ```text
-Hackathons        → Building & competing
-Innovation        → Turning ideas into solutions
-Leadership        → Coordinating teams & events
-Entrepreneurship  → Exploring products & startups
-```
-
-### 🚀 Highlights
-
-* Organizer & Management Lead — **Innov8-A-Thon 2026**
-* Overall Coordinator — **IdeaThon 2026**
-* Top 25 Finalist / Top 10 — **Innovate-a-thon, BIT Mesra**
-* Certificate of Excellence — **CredTech Hackathon**
-* Active involvement in student innovation & entrepreneurship initiatives
-
----
-
-## 💻 My Journey
-
-```text
-       C / C++
-          │
-          ▼
-     Java + OOP
-          │
-          ▼
-   Web Development
-          │
-          ▼
-    React + JavaScript
-          │
-          ▼
-      AI / ML
-          │
-          ▼
-   Product Building 🚀
-```
-
----
-
-## 🌱 Currently Learning
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Computer Vision
-      ↓
-AI-powered Applications
-      ↓
-Building Better Products
+             ┌──────────────┐
+             │    IDEA      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   EXPLORE    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    BUILD     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    BREAK     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    DEBUG     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   IMPROVE    │
+             └──────┬───────┘
+                    │
+                    └──────────→ REPEAT ↻
 ```
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
+## `06 // BEYOND_CODE`
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeba-praween&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="170"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeba-praween&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94A3B8" height="170"/>
+```text
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│  🚀 HACKATHONS       Building & competing              │
+│  💡 INNOVATION       Turning ideas into solutions       │
+│  🎯 LEADERSHIP       Coordinating people & projects     │
+│  🧠 LEARNING         Constantly expanding my toolkit    │
+│  🏗️ BUILDING         From concept → working product     │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
 
-</p>
+### Highlights
+
+* 🚀 **Innov8-A-Thon 2026** — Organizer & Management Lead
+* 💡 **IdeaThon 2026** — Overall Coordinator
+* 🏆 **Innovate-a-thon, BIT Mesra** — Top 25 Finalists / Top 10
+* 🥇 **CredTech Hackathon** — Certificate of Excellence
+* 🚀 Active in student innovation & entrepreneurship initiatives
 
 ---
 
-## ⚡ Build Philosophy
+<div align="center">
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+## `07 // GITHUB_ANALYTICS`
 
-I don't want to just learn technologies.
+<img src="https://github-readme-stats.vercel.app/api?username=zeba-praween&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="180"/>
 
-**I want to build with them.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeba-praween&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=zeba-praween&theme=transparent&hide_border=true&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=64748B" />
+
+</div>
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
-<p align="center">
+## `08 // CONNECT`
+
+### Want to build something interesting?
 
 <a href="https://www.linkedin.com/in/zeba-praween/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/zeba-praween">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
 
-</p>
+```text
+> connection.established
+> status: ready_to_build
+```
 
----
+<br>
 
-<p align="center">
+### `while(alive) { learn(); build(); repeat(); }`
 
-`while(alive) { build(); learn(); repeat(); }`
+**Thanks for visiting my corner of GitHub. 🚀**
 
-### 🚀 Keep building.
-
-</p>
+</div>
