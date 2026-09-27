@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zeba Praween</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Zeba%20Praween&fontSize=52&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Explorer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=58&descSize=19" alt="Zeba Praween Banner" width="100%" />
+</p>
 <h3 align="center">AI/ML Enthusiast • Web Developer • Problem Solver in the Making</h3>
 
 <p align="center">
