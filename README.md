@@ -1,66 +1,91 @@
-<!-- Header Wave Banner -->
+<h1 align="center">Hi 👋, I'm Zeba Praween</h1>
+<h3 align="center">AI/ML Enthusiast • Web Developer • Problem Solver in the Making</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Zeba%20Praween&fontSize=50&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=18" alt="Zeba Praween Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Sarala+Birla+University;Exploring+AI+%26+Machine+Learning;Building+Real-World+Tech+Projects;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Dynamic Typewriter Subheader -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&multiline=true&width=750&height=65&lines=Building+practical+%26+creative+AI-driven+software;Exploring+Deep+Learning%2C+Computer+Vision+%26+Product+Design;Founder+%40+CosmoEra+%E2%80%94+Fashion+%C3%97+Tech;Turning+ideas+into+scalable+real-world+solutions" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Social, Portfolio & Connection Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/zeba-praween/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://zebapraween.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:zebapraween@example.com"><img src="https://img.shields.io/badge/Get_In_Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hackathons-Participant-6C63FF?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-AI%2FML-orange?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Building-Web%20%26%20Emerging%20Tech-blue?style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 🧬 About Me
+### 🚀 What I Do
 
-I'm a B.Tech Computer Science student passionate about building practical, creative, and human-centric technology. My work spans the intersection of **AI/ML**, **web systems**, and **product innovation**—translating early-stage concepts into fully functional applications.
-
-```yaml
-profile:
-  name: Zeba Praween
-  status: B.Tech CSE | Developer | AI/ML Explorer & Builder
-  core_focus: Computer Vision, Deep Learning, and Real-World Product Engineering
-  flagship: CosmoEra (Fashion × AI × Interactive Web)
-  mindset: "Learn by building, shipping, and solving real user bottlenecks"
+- 🤖 Explore **AI & Machine Learning**
+- 💻 Build **web-based projects**
+- 💡 Work on **innovative product ideas**
+- 🏆 Participate in **hackathons & innovation challenges**
+- 🎯 Take part in **student leadership & technical events**
+- 🤝 Collaborate and coordinate on **tech initiatives**
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Featured Projects
+
+| Project | Description |
+|---|---|
+| 🛍️ **CosmoEra** | Fashion-tech platform combining fashion and technology |
+| ♻️ **NIRMAAN** | AI-driven solution tackling India's waste-management challenges |
+| 🆔 **SafeID** | Decentralized identity solution for displaced communities |
+| 🌐 **Personal Portfolio** | Showcasing my projects, skills, and journey |
+
+---
+
+### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,git,github,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Focus Area | Description |
-| :--- | :--- | :--- |
-| **👗 CosmoEra** | `Fashion × AI` | Personalized digital fashion experiences and virtual interaction models. |
-| **🪪 SafeID** | `Blockchain × Auth` | Decentralized identity protocol focused on verifiable, tamper-proof credentials. |
-| **🖥️ SAZOS** | `React × Web OS` | In-browser mini operating system with desktop-grade windowing mechanics. |
-| **🍔 Campus Bite** | `Fullstack × DB` | Streamlined campus food-ordering engine designed for high-concurrency order flows. |
-
----
-
-### 📊 Code Frequency & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Snake Eating Commit History -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> A snake eats its way across my contribution graph — powered by a GitHub Action. Setup steps are in `snake.yml` (included alongside this README).
+
+---
+
+### 🌱 Currently
+
+Focused on growing as an **AI/ML developer**, strengthening my development fundamentals, building meaningful projects, and learning by actually creating things.
+
+**My Approach:** `Learn → Build → Experiment → Improve → Repeat 🚀`
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=flat" alt="profile views" />
+</p>
