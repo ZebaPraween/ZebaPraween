@@ -31,6 +31,7 @@ class ZebaPraween:
         ]
         self.currently = "Building projects & exploring AI/ML"
         self.motto = "Learn → Build → Experiment → Repeat 🚀"
+```
 
 ---
 
