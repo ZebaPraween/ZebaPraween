@@ -15,14 +15,22 @@
 
 ---
 
-### 🚀 What I Do
+## 🧠 About Me
 
-- 🤖 Explore **AI & Machine Learning**
-- 💻 Build **web-based projects**
-- 💡 Work on **innovative product ideas**
-- 🏆 Participate in **hackathons & innovation challenges**
-- 🎯 Take part in **student leadership & technical events**
-- 🤝 Collaborate and coordinate on **tech initiatives**
+```python
+class ZebaPraween:
+
+    def __init__(self):
+        self.role = "Aspiring AI/ML Developer"
+        self.education = "B.Tech CSE @ Sarala Birla University"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Development",
+            "Innovation & Product Building"
+        ]
+        self.currently = "Building projects & exploring AI/ML"
+        self.motto = "Learn → Build → Experiment → Repeat 🚀"
 
 ---
 
