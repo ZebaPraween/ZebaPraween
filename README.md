@@ -1,23 +1,35 @@
-<!-- Header Section -->
+<!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Hi%2C%20I'm%20Zeba%20Praween%20✨&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%2FML%20Explorer%20%7C%20Product%20Builder&descAlignY=62&descSize=18" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Zeba%20Praween&fontSize=50&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=18" alt="Zeba Praween Banner" width="100%" />
 </p>
 
+<!-- Dynamic Typewriter Subheader -->
 <p align="center">
-  <a href="https://linkedin.com/in/zeba-praween/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://zebapraween.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&multiline=true&width=750&height=65&lines=Building+practical+%26+creative+AI-driven+software;Exploring+Deep+Learning%2C+Computer+Vision+%26+Product+Design;Founder+%40+CosmoEra+%E2%80%94+Fashion+%C3%97+Tech;Turning+ideas+into+scalable+real-world+solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social, Portfolio & Connection Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/zeba-praween/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://zebapraween.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:zebapraween@example.com"><img src="https://img.shields.io/badge/Get_In_Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 💫 About Me
+### 🧬 About Me
 
-I’m a Computer Science student passionate about transforming raw ideas into functional, human-centric software. Whether it’s building interactive web applications or experimenting with computer vision models, I like working at the intersection of engineering and product design.
+I'm a B.Tech Computer Science student passionate about building practical, creative, and human-centric technology. My work spans the intersection of **AI/ML**, **web systems**, and **product innovation**—translating early-stage concepts into fully functional applications.
 
-* 🔭 **Currently Building:** **CosmoEra** — exploring fashion-tech, virtual interactions, and AI styling.
-* 🧠 **Diving Into:** Deep Learning architectures, Computer Vision pipelines, and agentic AI workflows.
-* 🎯 **Milestones:** Top Finalist at **BIT Mesra Innovate-a-thon** & Certificate of Excellence at **IIT Kanpur CredTech**.
-* 🤝 **Leadership:** Organizer & Lead for **Innov8-A-Thon 2026** and **IdeaThon 2026**.
+```yaml
+profile:
+  name: Zeba Praween
+  status: B.Tech CSE | Developer | AI/ML Explorer & Builder
+  core_focus: Computer Vision, Deep Learning, and Real-World Product Engineering
+  flagship: CosmoEra (Fashion × AI × Interactive Web)
+  mindset: "Learn by building, shipping, and solving real user bottlenecks"
 
 ---
 
